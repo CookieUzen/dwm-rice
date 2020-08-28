@@ -1,10 +1,10 @@
 # Patches Applied
-
-# Patches To Applied
+- autostart
 - attachbelow
 - combo
-- autostart
 - namedscratchpads
 - pertag
 - actualfullscreen
 - fullgaps
+
+# Patches To Applied
