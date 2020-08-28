@@ -4,6 +4,7 @@
 - attachbelow
 - combo
 - autostart
-- scratchpad
+- namedscratchpads
 - pertag
 - actualfullscreen
+- fullgaps
